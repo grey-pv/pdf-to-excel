@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files — don't upload generated results
+output/
+*.xlsx
+!samples/*.xlsx
+!samples/**/*.xlsx
+
+# Jupyter
+.ipynb_checkpoints/
