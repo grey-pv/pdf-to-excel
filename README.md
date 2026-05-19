@@ -235,9 +235,9 @@ MIT — free to use, modify, and distribute. See [LICENSE](LICENSE) for details.
 
 Built by **Paulo Victor** — shipping Python automation tools in public.
 
-- Twitter/X: [@YOUR_HANDLE]
-- LinkedIn: [linkedin.com/in/YOUR_PROFILE]
-- GitHub: [@YOUR_USERNAME]
+- Twitter/X: [@grey_pv1]
+- LinkedIn: [linkedin.com/in/www.linkedin.com/in/paulo-victor-f-gonçalves-6b0b26318]
+- GitHub: [@grey-pv]
 
 ---
 
